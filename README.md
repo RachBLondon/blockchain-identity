@@ -1,6 +1,5 @@
 # blockchain-identity
 Some links from my London Women in Blockchain talk on Identity and the Blockchain:
-- [Slides from the presentation](https://docs.google.com/presentation/d/1MRTaiRswnmTuVoKFOzDu0LY1EPM9BLU5zz-ysHbpdzw/edit?usp=sharing)
 
 - [Have I been pwned?](https://haveibeenpwned.com/) Check if your email has been compromised in a data breach.
 
